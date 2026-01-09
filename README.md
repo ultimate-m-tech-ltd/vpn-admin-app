@@ -1,15 +1,17 @@
 # VPN Admin App
 
-A web-based administration panel for managing VPN servers and users.
+**A modern web dashboard for managing VPN infrastructure**  
+Centralized administration panel for OpenVPN/WireGuard servers with user management, real-time monitoring, and automated configuration.
 
-## Features
-- User management dashboard
-- Server monitoring
-- Connection analytics
-- Configuration management
+## ✨ Features
+- **User Management**: Add, remove, and manage VPN users
+- **Server Monitoring**: Real-time server status and health checks
+- **Connection Analytics**: Track active sessions and bandwidth usage
+- **Config Generator**: Automatic client configuration files
+- **Multi-Server Support**: Manage multiple VPN instances from one dashboard
 
-## Setup
-1. Clone this repository
-2. Install dependencies: `npm install`
-3. Configure environment variables
-4. Run: `npm start`
+## 🚀 Quick Start
+```bash
+git clone [your-repo-url]
+npm install
+npm start
